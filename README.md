@@ -351,6 +351,29 @@ The program displays:
 - Average inventory
 - Total fills
 - Average execution price
+## Simulation Results
+The simulator was tested using the configured simulation parameters.
+ BAYESIAN MARKET-MAKING & OPTIMAL PRICING SIMULATOR
+Simulation Results
+Initial Capital            : 10000.00
+Final Portfolio            : 10624.51
+Total P&L                  : 624.41
+Sharpe Ratio               : 0.7531
+Maximum Drawdown           : 1.38%
+Final Market Price         : 43.7580
+Final Bayesian Fair Value  : 84.0421
+Final Inventory            : -10
+Average Absolute Inventory : 10.0935
+Total Fills                : 292
+Average Execution Price    : 95.3601
+Core Model Components
+✓ Bayesian inference
+✓ Fair-value estimation
+✓ Expected-value calculation
+✓ Dynamic bid/ask quoting
+✓ Inventory-aware pricing
+✓ Risk management
+✓ Portfolio P&L analysis
 
 ## Technologies
 
