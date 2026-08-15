@@ -1,7 +1,4 @@
-# bayesian-market-making-simulator
-Bayesian market-making simulator using fair-value estimation, dynamic bid/ask pricing, expected value, and inventory-aware risk management.
 # Bayesian Market-Making & Optimal Pricing Simulator
-
 A quantitative trading simulation project that combines Bayesian inference,
 fair-value estimation, expected-value analysis, dynamic bid/ask quoting,
 and inventory-aware risk management.
