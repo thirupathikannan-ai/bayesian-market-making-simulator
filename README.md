@@ -322,7 +322,7 @@ Inventory Exposure =
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/bayesian-market-making-simulator.git
+https://github.com/thirupathikannan-ai/bayesian-market-making-simulator.git
 
 Enter the project directory:
 
