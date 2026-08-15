@@ -118,7 +118,7 @@ class MarketMaker:
         self.order_size = order_size
 
         self.inventory = 0
-        self.cash = 0.0
+        self.cash = 10000.0
 
         self.total_buys = 0
         self.total_sells = 0
